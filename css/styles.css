@@ -7,12 +7,12 @@
 /* Styles for the body */
 
 body {
-	font-family: 'IM Fell DW Pica';
 	color: #202030;
 	background-color: #f8f8fc;}
 
 h1 {color: #F3CFF9;
-          font-style: italic;}
+          font-style: italic;
+      font-family: 'IM Fell DW Pica'}
 
 h5 {color: F2D5DD;}
 
