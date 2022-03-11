@@ -9,13 +9,16 @@ body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
-     .fst-bolder name 
+}
 
+h1 {color: #F3CFF9;
+          font-style: italic;}
+h5 {color: F2D5DD;}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #3769AD;
 }
 
 .resume-main {
