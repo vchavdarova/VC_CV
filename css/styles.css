@@ -50,7 +50,9 @@ h5 {color: F2D5DD;}
 
 /* Styles for contact icons */
 
-.contact-icon {
+.contact-icon
+h2 {
+	 color: 2F7566;
 	height: 1em;
 	flex-basis: 1.4em;
 }
