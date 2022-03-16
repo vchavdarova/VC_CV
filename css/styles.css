@@ -2,7 +2,7 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&display=swap');
-</style>;
+
 
 /* Styles for the body */
 
@@ -50,8 +50,7 @@ h5 {color: F2D5DD;}
 
 /* Styles for contact icons */
 
-.contact-icon
-h2 {
+.contact-icon {
 	 color: 2F7566;
 	height: 1em;
 	flex-basis: 1.4em;
